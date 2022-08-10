@@ -9,10 +9,9 @@ I was given a broken HTML and CSS code and brought it up to accessibility standa
 ​
 ### Screenshot
 ​
-![This is a screenshot of the fixed version of the website](./Develop/assets/images/screenshot_1st_project.png)
+![This is a screenshot of the fixed version of the website](./assets/images/screenshot_1st_project.png)
 ​
 ### Links
 ​
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 ​
